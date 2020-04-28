@@ -2,7 +2,7 @@
 /**
  * Plugin Name:  Code Block Alignment
  * Plugin URI:   https://github.com/Daniel-Walsh/wp-code-block-alignment
- * Description:  Extends the core Gutenberg "Code" block with <em>wide</em> and <em>center</em> alignment options.
+ * Description:  Extends the core Gutenberg code block with <em>wide</em> and <em>center</em> alignment options.
  * Version:      1.0
  * Author:       Dan Walsh
  * Author URI:   https://dwalsh.dev/
