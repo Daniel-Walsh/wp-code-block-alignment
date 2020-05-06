@@ -14,7 +14,7 @@
  */
 
 add_action(
-	'enqueue_block_assets',
+	'enqueue_block_editor_assets',
 	function() {
 		wp_enqueue_script(
 			'code-block-alignment-script',
